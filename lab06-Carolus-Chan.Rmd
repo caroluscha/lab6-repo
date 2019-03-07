@@ -1,0 +1,21 @@
+---
+title: "lab06-Carolus-Chan"
+author: "Carolus Chan"
+date: "March 7, 2019"
+output: html_document
+---
+
+```{r eval=FALSE}
+
+# use your own user name
+git config --global user.name "caroluscha"
+
+# use your own email
+git config --global user.email "carolusc@berkeley.edu"
+
+# colors
+git config --global color.ui "auto"
+
+```
+
+
